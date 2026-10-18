@@ -1,0 +1,2 @@
+city,timestamp,temperature_c,humidity_percent,feels_like_c,precipitation_mm,weather_code,wind_speed_kmh
+Hyderabad,2026-10-18T18:45,27.6,62,29.9,0.1,51,8.9
